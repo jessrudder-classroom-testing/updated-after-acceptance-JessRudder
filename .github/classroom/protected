@@ -1,3 +1,4 @@
 gemfile
 gemfile.lock
-tests/
+work_this_time
+.github/classroom/
