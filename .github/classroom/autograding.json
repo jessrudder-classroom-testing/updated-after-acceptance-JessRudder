@@ -1,11 +1,21 @@
 {
   "tests": [
     {
-      "name": "input test",
+      "name": "dog testing",
       "setup": "",
       "run": "run",
       "input": "1\r\n2",
       "output": "1\r\n2",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "cat tests",
+      "setup": "",
+      "run": "run",
+      "input": "cats",
+      "output": "cats",
       "comparison": "included",
       "timeout": 10,
       "points": 6
